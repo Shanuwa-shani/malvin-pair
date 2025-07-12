@@ -74,7 +74,7 @@ var randomItem = selectRandomItem(items);
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*Hey there, MALVIN-XD User!* 👋🏻
 
-Thanks for using *MALVIN-XD* — your session has been successfully created!
+Thanks for using *Quveen shani* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -83,21 +83,20 @@ Thanks for using *MALVIN-XD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
-
+https://whatsapp.com/channel/0029Vb6pI1VBqbrIwyeZr12t
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+https://github.com/XdKing2/Quveen shani
 
 ——————
 
-> *© Powered by Malvin King*
+> *© Powered by shanuwa *
 Stay cool and hack smart. ✌🏻`;
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
+title: "Quveen shani",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
 mediaType: 1,
@@ -110,7 +109,7 @@ renderLargerThumbnail: true
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `*Hey there, MALVIN-XD User!* 👋🏻
 
-Thanks for using *MALVIN-XD* — your session has been successfully created!
+Thanks for using *Quveen shani* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -123,15 +122,15 @@ https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+https://github.com/XdKing2/Quveen shani
 
-> *© Powered by Malvin King*
+> *© Powered by shanuwa *
 Stay cool and hack smart. ✌🏻*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
+title: "Quveen shani✅  ",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
 mediaType: 2,
@@ -150,7 +149,7 @@ showAdAttribution: true
                     process.exit();
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10);
-                    MALVIN_XD_PAIR_CODE();
+                    Quveen_shani_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -161,7 +160,7 @@ showAdAttribution: true
             }
         }
     }
-    await MALVIN_XD_PAIR_CODE();
+    await Quveen_shani_PAIR_CODE();
 });
 setInterval(() => {
     console.log("☘️ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...");
